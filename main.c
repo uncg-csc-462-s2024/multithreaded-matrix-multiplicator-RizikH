@@ -2,7 +2,7 @@
  * This is a multithreaded matrix multiplication program.
  * it takes in a .txt file and create 2 matrices A and B. Multiplies A * B and store it in a new Matrix C.
  *
- * @author 882979811
+ * @author Rihaddad2@uncg.edu
  * @version 03/29/2024
  */
 
